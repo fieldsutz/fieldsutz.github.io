@@ -1,0 +1,34 @@
+body{
+    background-color:blueviolet
+
+}
+
+p{
+    font-size: 25px;
+    font-style:oblique;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1{
+    font-size: 20px;
+    font-style: italic;
+    font-family: fantasy;
+}
+h2{
+    font-size: 20x;
+    font-style: initial;
+    font-family: monospace;
+}
+hr{
+    color: red;
+    height: 15px;
+    width: 50%;
+}
+
+img{
+    position: absolute; top: 50px; left: 200px;
+}
+p{
+    font-size: 15px;
+    font-style: initial;
+    font-family: unset;
+}

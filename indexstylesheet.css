@@ -4,19 +4,19 @@ body{
 }
 
 p{
-    position: absolute; top: 200px; left: 690px;
+    position: absolute; top: 200px; left: 600px;
     font-size: 25px;
     font-style:normal;
     font-family:monospace;
 }
 h1{
-    position: absolute; top: 20px; left: 310px;
+    position: absolute; top: 20px; left: 300px;
     font-size: 50px;
     font-style:normal;
     font-family: monospace;
 }
 h2{
-    position: absolute; top: 500px; left: 600px;
+    position: absolute; top: 300px; left: 600px;
     font-size: 25x;
     font-style:normal;
     font-family: monospace;
@@ -25,22 +25,21 @@ h2{
 
 
 img{
-    position: absolute; top: 310px; left: 90px;
+    position: absolute; top: 250px; left: 90px;
 }
 
 
 
 h3{
-    position: absolute; top: 730px; left: 90px;
+    position: absolute; top: 500px; left: 650px;
     font-size: 25px;
     font-style: normal;
     font-family: monospace;
 }
 
 h4{
-    position: absolute; top: 1240px; left: 120px;
+    position: absolute; top: 400px; left: 650px;
     font-size: 25px;
     font-style: normal;
     font-family: monospace;
 }
-
